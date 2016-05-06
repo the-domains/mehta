@@ -1,0 +1,28 @@
+name: MEHTA
+favicon: null
+layout_spectrum: 0.9755356719251722
+typography_spectrum: 0.7977306777611375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.33112802752293646
+  lightness: 0.23595092096365988
+  saturation: 0.20929520879872143
+  rhythmicContrast: 0.5555176483467221
+purpose: []
